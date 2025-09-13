@@ -3,7 +3,7 @@
 
 
 # Basic
-url: "https://<user>.github.io/<repo>" # Set this to https://<user>.github.io/<repo> once known
+url: "https://johnbigornia.github.io/game-dev" # Set this to https://<user>.github.io/<repo> once known
 baseurl: "" # If publishing to /<repo>, set baseurl: "/<repo>"
 title: "John’s Game Dev"
 description: "Devlog, docs, notes, and links for my game development journey."
