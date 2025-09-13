@@ -3,7 +3,7 @@
 
 
 # Basic
-url: "" # Set this to https://<user>.github.io/<repo> once known
+url: "https://<user>.github.io/<repo>" # Set this to https://<user>.github.io/<repo> once known
 baseurl: "" # If publishing to /<repo>, set baseurl: "/<repo>"
 title: "John’s Game Dev"
 description: "Devlog, docs, notes, and links for my game development journey."
@@ -17,7 +17,7 @@ remote_theme: jekyll/minima
 minima:
 skin: auto # light/dark auto
 social_links:
-- { platform: github, user_url: "https://github.com/<your-username>" }
+- { platform: github, user_url: "https://github.com/johnbigornia" }
 
 
 # Navigation: these pages will appear in the header
