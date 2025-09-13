@@ -10,6 +10,3 @@ title: Welcome
 - Read the **Documentation** for structured writeups and guides.
 - Browse **Notes** for quick thoughts, ideas, snippets, and learnings.
 - Check **Important Links** for tools, tutorials, and references.
-
-
-> Tip: Edit `_config.yml` to set your site title, description, and navigation.
