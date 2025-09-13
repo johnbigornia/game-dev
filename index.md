@@ -7,6 +7,5 @@ title: Welcome
 **Welcome!** This is the hub for my game dev journey.
 
 
-- Read the **Documentation** for structured writeups and guides.
-- Browse **Notes** for quick thoughts, ideas, snippets, and learnings.
-- Check **Important Links** for tools, tutorials, and references.
+- Read the [**Documentation**](https://johnbigornia.github.io/game-dev/docs/) for structured writeups and guides.
+- Browse [**Notes**](https://johnbigornia.github.io/game-dev/notes/) for quick thoughts, ideas, snippets, and learnings.
