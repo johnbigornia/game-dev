@@ -7,31 +7,19 @@ permalink: /docs/
 
 # Documentation
 
-
-Use this page for your structured docs: designs, specs, systems, pipelines, etc.
-
-
-## Example sections
-
+### Pre-requisite 
+- Dependencies
+  - [.NET 8.0]:(https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+  - C#
+  - [VS Code]:(https://code.visualstudio.com/)
+  - [Gadot, Gadot Engine .NET]:(https://godotengine.org/download/windows/)
 
 ### Project Overview
-- Engine/stack: Unity/Unreal/Godot/custom?
-- Target platforms: PC/Console/Web/Mobile
-- Game pillars: core fantasy, mechanics, constraints
+This will be a documentation of my journey in gamedev. I will be starting with udemy and creating a 2d game in a 1-1 tutorial. My goal is to eventually make my own game. 
+
+### Environment setup
+
+####
 
 
-### Architecture
-- Rendering pipeline notes
-- ECS / OOP design
-- Data formats & serialization
 
-
-### Tooling
-- Build scripts
-- Asset import pipeline
-- Testing & CI/CD
-
-
-### Milestones
-- Alpha → Beta → Launch
-- Checklists and acceptance criteria
