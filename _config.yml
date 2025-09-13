@@ -1,0 +1,41 @@
+# Site settings
+# Update these to your liking
+
+
+# Basic
+url: "" # Set this to https://<user>.github.io/<repo> once known
+baseurl: "" # If publishing to /<repo>, set baseurl: "/<repo>"
+title: "John’s Game Dev"
+description: "Devlog, docs, notes, and links for my game development journey."
+
+
+# Theme
+remote_theme: jekyll/minima
+
+
+# Minima options
+minima:
+skin: auto # light/dark auto
+social_links:
+- { platform: github, user_url: "https://github.com/<your-username>" }
+
+
+# Navigation: these pages will appear in the header
+header_pages:
+- docs.md
+- notes.md
+- links.md
+
+
+# Jekyll config
+markdown: kramdown
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+
+
+# Collections (optional: turn notes into a collection later)
+# collections:
+# notes:
+# output: true
+# permalink: /notes/:name/
